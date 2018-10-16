@@ -1,2 +1,2 @@
 # ww2_data_visualization
-Here I will practice data visualization
+Please take a look at the .ipynb file for detailed explanation and explanation.
